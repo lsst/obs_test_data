@@ -23,7 +23,6 @@
 # - DETECTOR: '0'
 # - CALIBDATE: '1970-01-01T00:00:00'
 # - FILTER: null
-# - CALIB_ID: detector=0 calibDate=1970-01-01T00:00:00 ccd={detectorName} ccdnum={detectorName} filter=None
 # - DEFECTS_SCHEMA: Simple
 # - DEFECTS_SCHEMA_VERSION: 1
 # - DATE: '2019-05-09T16:56:46.439486'
