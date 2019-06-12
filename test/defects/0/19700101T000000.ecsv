@@ -20,8 +20,9 @@
 # meta: !!omap
 # - OBSTYPE: defects
 # - INSTRUME: test
-# - DETECTOR: '0'
+# - DETECTOR: 0
 # - CALIBDATE: '1970-01-01T00:00:00'
+# - DEFECTTYPE: BADPIXEL
 # - FILTER: null
 # - DEFECTS_SCHEMA: Simple
 # - DEFECTS_SCHEMA_VERSION: 1
